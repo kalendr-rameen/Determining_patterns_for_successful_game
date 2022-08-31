@@ -1,3 +1,5 @@
+***!!This is my project made as part of the training in Yandex.Practicum!!***
+
 # Determining_patterns_for_successful_game
 
 Historical data on game sales, user and expert evaluations, genres and platforms (e.g. Xbox or PlayStation) are available from open sources. We need to identify the patterns that determine the success of a game. This will allow you to bet on a potentially popular product and plan advertising campaigns.
